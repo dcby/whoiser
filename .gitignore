@@ -1,0 +1,5 @@
+.tests/
+.vscode/
+typings/
+jsconfig.json
+typings.json

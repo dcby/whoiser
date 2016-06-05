@@ -1,0 +1,6 @@
+.tests/
+.vscode/
+typings/
+.gitignore
+jsconfig.json
+typings.json
